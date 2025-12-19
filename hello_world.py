@@ -2,7 +2,7 @@
 # Edit the variables below to introduce yourself
 
 name = "Erika Wooldridge"
-fun_fact = "I have remodeled 6 houses"
+fun_fact = "I have love to learn"
 
 # Don't change anything below this line
 print(f"Hello! I'm {name}.")
